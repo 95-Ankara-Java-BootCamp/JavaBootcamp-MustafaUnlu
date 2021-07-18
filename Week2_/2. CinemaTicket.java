@@ -4,11 +4,6 @@ import java.util.Scanner;
 
 public class Main {
 
-    /*
-    This program is a program that
-    calculates discounts according to the selected movie
-     and age for movie ticket sales.
-     */
 
     public static void main(String[] args) {
 
@@ -17,7 +12,6 @@ public class Main {
         int userAge;
         int discount=0;
 
-        //The movie category to be watched is taken from the user
         do { //The loop continues until the user enters values 1-5.
             System.out.println("**** Welcome to our cinema **** \n" +
                     "Please select movie category \n" +
