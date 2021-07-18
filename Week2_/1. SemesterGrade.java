@@ -2,13 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-/*
 
-This program is the program that
-takes the midterm and final grade from student
-and calculates the letter grade and the semester point grade.
-
- */
 
 public class Main {
 
@@ -60,13 +54,4 @@ public class Main {
         return letterGrade;
     }
 
-    /*
-    Expected Output Exa:
-    Please enter midterm note(midterm note should be between 0-100) : 105
-    Please enter midterm note(midterm note should be between 0-100) : 102
-    Please enter midterm note(midterm note should be between 0-100) : 10
-    Please enter final note(final note should be between 0-100) : 95
-    Semester Grade : 71.5
-    Letter Grade : AA
-     */
 }
