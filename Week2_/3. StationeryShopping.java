@@ -4,9 +4,6 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class Main {
-    /*
-    This program keeps the product name and quantity bought by a stationer.
-     */
 
     public static void main(String[] args) {
 
